@@ -24,7 +24,7 @@ class CreateAdmin(object):
 	admins have the ability to edit or delete any comment.
 	admins have the ability to edit or delete any comment.
 	'''
-i	
+
 	def __init__(self) :
 		self.user_id = None # int
 		self.username = None # str
@@ -36,7 +36,7 @@ i
 		# returns 
 		pass
 	def edit_comments (self, new_comment) :
-		# returns 
+    		# returns 
 		pass
 	def delete_comments (self) :
 		# returns 
